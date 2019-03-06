@@ -6,6 +6,7 @@ public class newBranchClass {
 
         System.out.println("New Branch");
         System.out.println("New 2nd Branch");
+        System.out.println("3");
 
     }
 }
